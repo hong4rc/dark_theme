@@ -1,0 +1,218 @@
+html {
+  background-color: #22252e !important;
+  min-height: 100% !important; }
+
+body {
+  background-color: #dddad1 !important;
+  min-height: 100% !important;
+  -webkit-filter: invert(100%) !important; }
+
+img,
+iframe,
+video,
+embed:not([type$="pdf"]),
+object,
+svg,
+canvas,
+[background*="http"] {
+  -webkit-filter: invert(100%)  !important; }
+
+*[style*="background-image:"] {
+  -webkit-filter: invert(100%)  !important; }
+
+div.drk_settings,
+div.drk_settings_icon,
+div.drk_dialog,
+.addthis_sharing_toolbox,
+.drk_invert_back {
+  -webkit-filter: invert(100%)  !important; }
+
+*:-webkit-full-screen {
+  -webkit-filter: invert(100%)  !important; }
+
+button, input[type="submit"], input[type="button"] {
+  background-color: #ff6421 !important;
+  color: black !important;
+  border-color: rgba(55, 35, 0, 0.08) !important; }
+  button span, input[type="submit"] span, input[type="button"] span {
+    color: black !important; }
+
+textarea, input[type="text"] {
+  background-color: #f3f2ee !important;
+  color: #1f1d1b !important;
+  border-color: rgba(55, 35, 0, 0.08) !important; }
+
+html {
+  text-shadow: 0 0 0 !important; }
+
+a {
+  color: #903710 !important; }
+
+a:visited {
+  color: #ce6639 !important; }
+
+a:active {
+  color: #0f398b !important; }
+
+::-webkit-scrollbar {
+  background: #22252e; }
+
+::-webkit-scrollbar-track {
+  background: #2d313d; }
+
+::-webkit-scrollbar-thumb {
+  background: #3e4454;
+  border-left: 2px solid #2d313d;
+  border-right: 1px solid #2d313d;
+  box-shadow: inset 1px 1px 0 rgba(100, 100, 100, 0.2), inset -1px -1px 0 rgba(0, 0, 0, 0.4); }
+
+.drk_settings_global_msg.visible {
+  display: block !important; }
+
+.gb_ga {
+  -webkit-filter: invert(100%)  !important; }
+
+.flyr-o, .flyr-w {
+  background-color: #dddad1 !important;
+  color: White !important; }
+
+span,
+div,
+em,
+input {
+  color: black !important; }
+
+#hplogo img {
+  -webkit-filter: invert(100%)  !important; }
+
+#hplogo {
+  -webkit-filter: invert(100%)  !important; }
+
+#hplogo div {
+  -webkit-filter: invert(100%)  !important; }
+
+.jsb input[type="submit"] {
+  background: #ff6421 !important; }
+  .jsb input[type="submit"]:hover {
+    background: #ff5208 !important; }
+
+.sbfcn {
+  border-color: #ed4800 !important; }
+
+.sbibod {
+  box-shadow: none !important;
+  background-color: #f3f2ee !important; }
+
+.sbib_a, .sbib_b {
+  background-color: #f3f2ee !important; }
+
+.sbibod button.sbico-c {
+  background-color: #f3f2ee !important; }
+
+.sbibod button.sbico-c svg {
+  -webkit-filter: none !important;
+  color: #903710 !important; }
+
+#sblsbb {
+  background: #ff6421 !important; }
+  #sblsbb .sbico {
+    -webkit-filter: invert(100%)  !important; }
+
+.gsri_a {
+  opacity: 0.8 !important;
+  -webkit-filter: invert(100%)  !important; }
+
+.gsst_e {
+  opacity: 0.3 !important; }
+
+.sbdd_b {
+  background-color: rgba(55, 35, 0, 0.08) !important;
+  border-color: solid 1px rgba(55, 35, 0, 0.08) !important;
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.2) !important; }
+
+.sbsb_a {
+  background-color: #f3f2ee !important; }
+
+.sfbgg {
+  background-color: #ccc7ba !important;
+  border-color: rgba(55, 35, 0, 0.08) !important; }
+
+#appbar {
+  background-color: #dddad1 !important; }
+
+#hdtbSum {
+  background-color: #ccc7ba !important;
+  border-color: rgba(55, 35, 0, 0.08) !important; }
+  #hdtbSum a:hover {
+    color: #63250b !important; }
+
+.gb_Ha {
+  background: #ff6421 !important;
+  color: black !important;
+  border-color: rgba(55, 35, 0, 0.08) !important; }
+
+.gb_7a::before, .gb_8a::before, .gbii::before {
+  -webkit-filter: invert(100%)  !important; }
+
+.gbip {
+  -webkit-filter: invert(100%)  !important; }
+
+#fbar {
+  background-color: #dddad1 !important;
+  border-color: rgba(55, 35, 0, 0.08) !important; }
+
+#foot #navcnt span.csb {
+  -webkit-filter: invert(100%)  !important; }
+
+cite {
+  color: #7e6965 !important; }
+
+.ab_button {
+  background-color: #ccc7ba !important;
+  border-color: rgba(55, 35, 0, 0.08) !important; }
+
+.ab_button span {
+  border-color: #7e6965 transparent !important; }
+
+._iH {
+  background: rgba(255, 255, 255, 0.4) !important; }
+  ._iH a {
+    text-shadow: 0 0 2px white, 0 0 3px white !important; }
+
+.kp-blk {
+  background: #ccc7ba !important;
+  box-shadow: 0px 1px 4px 0px rgba(255, 255, 255, 0.2) !important; }
+
+.kappbar {
+  background: #ccc7ba !important; }
+
+._p4n {
+  -webkit-filter: invert(0) !important; }
+
+#irc_cc {
+  background-color: #ccc7ba !important; }
+
+#irc_pc {
+  border-color: #ccc7ba !important; }
+
+.irc_but {
+  background: #ff6421 !important;
+  color: black !important;
+  border-color: rgba(55, 35, 0, 0.08) !important; }
+
+._GKb div {
+  -webkit-filter: invert(100%)  !important; }
+
+.rg_anbg, .rg_ilmbg {
+  background: rgba(220, 220, 220, 0.8) !important; }
+
+a ~ [wotsearchtarget] {
+  -webkit-filter: invert(100%)  !important; }
+
+.wot-rep {
+  -webkit-filter: invert(100%)  !important; }
+
+#wot-cat-list .cat-item:before {
+  -webkit-filter: invert(100%)  !important; }
+
+/*# sourceMappingURL=google-dusk.css.map */

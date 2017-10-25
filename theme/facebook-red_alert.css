@@ -1,0 +1,825 @@
+html {
+  background-color: black !important;
+  min-height: 100% !important; }
+
+body {
+  background-color: white !important;
+  min-height: 100% !important;
+  -webkit-filter: invert(100%) !important; }
+
+img,
+iframe,
+video,
+embed:not([type$="pdf"]),
+object,
+svg,
+canvas,
+[background*="http"] {
+  -webkit-filter: invert(100%)  !important; }
+
+*[style*="background-image:"] {
+  -webkit-filter: invert(100%)  !important; }
+
+div.drk_settings,
+div.drk_settings_icon,
+div.drk_dialog,
+.addthis_sharing_toolbox,
+.drk_invert_back {
+  -webkit-filter: invert(100%)  !important; }
+
+*:-webkit-full-screen {
+  -webkit-filter: invert(100%)  !important; }
+
+button, input[type="submit"], input[type="button"] {
+  background-color: #22ffff !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+  button span, input[type="submit"] span, input[type="button"] span {
+    color: black !important; }
+
+textarea, input[type="text"] {
+  background-color: white !important;
+  color: #1f1d1b !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+html {
+  text-shadow: 0 0 0 !important; }
+
+a {
+  color: #2fafaf !important; }
+
+a:visited {
+  color: #4aaaaa !important; }
+
+a:active {
+  color: #009fbf !important; }
+
+::-webkit-scrollbar {
+  background: black; }
+
+::-webkit-scrollbar-track {
+  background: #0d0d0d; }
+
+::-webkit-scrollbar-thumb {
+  background: #7a0600;
+  border-left: 2px solid #0d0d0d;
+  border-right: 1px solid #0d0d0d;
+  box-shadow: inset 1px 1px 0 rgba(100, 100, 100, 0.2), inset -1px -1px 0 rgba(0, 0, 0, 0.4); }
+
+.drk_settings_global_msg.visible {
+  display: block !important; }
+
+body {
+  background-color: white !important; }
+
+button {
+  background-color: #22ffff !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._517h {
+  background-color: #f2f2f2 !important;
+  color: black !important; }
+  ._517h i {
+    -webkit-filter: none !important; }
+
+._4-u8 {
+  background-color: #cffaff !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._6m2 {
+  background-color: white !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._2md {
+  -webkit-filter: invert(100%)  !important; }
+
+input {
+  color: #1f1d1b;
+  background-color: white;
+  border-color: rgba(55, 235, 255, 0.08); }
+
+a {
+  color: #2fafaf !important; }
+  a:visited {
+    color: #4aaaaa !important; }
+  a:active {
+    color: #009fbf !important; }
+
+.uiScrollableAreaContent {
+  background-color: #cffaff !important; }
+
+._4d3w .stageWrapper {
+  background-color: white !important; }
+
+._4q39 > a._2s25 {
+  color: #2fafaf !important; }
+
+i {
+  -webkit-filter: invert(100%)  !important; }
+
+.cleanslate i {
+  -webkit-filter: none !important; }
+
+#contentCol {
+  background-color: white !important; }
+
+#blueBarDOMInspector > div,
+#blueBarDOMInspector > div > div {
+  background-color: #9ffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important;
+  color: black !important; }
+
+._585- {
+  background-color: white !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+  ._585- ._585_ {
+    -webkit-filter: invert(100%)  !important; }
+
+.searchIcon {
+  padding-right: 14px !important; }
+
+._2s25 {
+  color: black !important; }
+
+._2n_9 {
+  -webkit-filter: invert(100%)  !important; }
+
+.__tw {
+  background: #cffaff !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+  .__tw .jewelHeader, .__tw .jewelFooter {
+    background-color: #cffaff !important;
+    color: black !important;
+    border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._ors .__tw .jewelFooter.jewelFooter a {
+  background-color: #cffaff !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._33c {
+  background: #cffaff !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._ors ._3nzk .fbRequestList .listGray {
+  background: #cffaff !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.uiIconText i {
+  -webkit-filter: invert(100%)  !important; }
+
+.uiTextareaAutogrow._3en1 {
+  background-color: #cffaff !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._4d6h._1kvc._tqc * {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._559p * {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+#pagelet_composer * {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.__MenuItem {
+  background-color: #cffaff !important;
+  color: black !important;
+  border-color: #cffaff !important; }
+  .__MenuItem.selected {
+    background-color: #e6e6e6 !important;
+    color: #009fbf !important; }
+
+li._54ne, .__MenuItem.selected {
+  background-color: #cffaff !important; }
+
+._54nc {
+  border-color: #cffaff !important; }
+
+._54ng {
+  border-color: #cffaff !important;
+  background-color: #cffaff !important; }
+
+._3399._1f6t._4_dr i {
+  -webkit-filter: invert(100%)  !important; }
+
+._4ar- ._3emk {
+  background-color: #cffaff !important; }
+
+._4arz {
+  background-color: #cffaff !important; }
+
+._ipo {
+  background-color: #cffaff !important; }
+
+._iuw {
+  -webkit-filter: invert(100%)  !important; }
+
+.fcg {
+  color: #464f4f !important; }
+  .fcg .fwb {
+    color: #5fcfcf !important; }
+
+._4xev {
+  color: #e6e6e6 !important; }
+
+._a7s {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.UFIList {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.UFIRow {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.UFILinkBright::before {
+  -webkit-filter: invert(100%) hue-rotate(-30deg) brightness(0.7) !important; }
+
+._4-u8 {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._4ks > li {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._4jy1 {
+  background-color: #22ffff !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.displayedTickerToggleWrapper .tickerLineToggle {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.tickerStoryClickable {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._5vb_ .home_right_column .fbFeedTicker .tickerStoryActive, ._5vb_ .home_right_column .fbFeedTicker .tickerStoryClickable:hover {
+  background-color: #e6e6e6 !important; }
+
+.fbRemindersTitle {
+  color: #2fafaf !important; }
+
+._50f8 {
+  color: black !important; }
+
+.tickerFeedMessage {
+  color: black !important; }
+  .tickerFeedMessage .fwb {
+    color: #2fafaf !important; }
+
+._3pra._5nns {
+  border-color: #f2f2f2 !important; }
+
+._4-u8 {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._5mym > div {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._5v0s {
+  color: #5fcfcf !important; }
+
+._19_3 {
+  background-color: #cffaff !important; }
+
+.uiHeaderTopBorder {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._194u {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._194v:hover {
+  background-color: #e6e6e6 !important; }
+
+._3pra:hover {
+  background-color: #e6e6e6 !important; }
+
+._3-8h {
+  background-color: white !important; }
+
+._53ij {
+  background-color: white !important; }
+
+.fbTimelineTimePeriod {
+  background-color: white !important; }
+
+#fb-timeline-cover-name {
+  color: #fff !important;
+  -webkit-filter: invert(100%)  !important; }
+
+#fbProfileCover .coverNoImage, #fbProfileCover .coverBorder {
+  -webkit-filter: invert(100%)  !important; }
+
+._70k {
+  background-color: #cffaff !important; }
+
+._513x {
+  background: #e6e6e6 !important; }
+
+._6-6:hover, ._9rx.openToggler, ._9ry:hover, html ._9rw._54ne ._54nc {
+  background: #f2f2f2 !important; }
+
+._57d8 {
+  background-color: white !important; }
+
+._1tm3 ._4-h7:hover {
+  background: #e6e6e6 !important; }
+
+textarea._4h98 {
+  background-color: #cffaff !important; }
+
+._2w3 > ._30f {
+  background: #cffaff !important;
+  color: black !important;
+  border-color: #cffaff !important; }
+
+._54ay button {
+  background: white !important; }
+
+._3s6x {
+  background: linear-gradient(transparent, rgba(255, 255, 255, 0.8)) !important;
+  text-shadow: 0 0 0 #000 !important;
+  color: black !important; }
+  ._3s6x ._34mw:after {
+    -webkit-filter: invert(100%)  !important; }
+
+._3cz {
+  background: #9cf5ff !important;
+  color: black !important;
+  border-color: #cffaff !important; }
+
+._3t3 {
+  background: #b6f7ff !important;
+  color: black !important;
+  border-color: #cffaff !important; }
+
+._28vg ._5b1w {
+  -webkit-filter: invert(100%)  !important; }
+
+._5y02:hover {
+  background: #f2f2f2 !important; }
+
+._21ok {
+  color: #2fafaf !important; }
+
+._u08 {
+  color: #2fafaf !important;
+  border-color: #2fafaf !important; }
+
+._5wn5 {
+  color: #2fafaf !important; }
+
+._47__::before {
+  background: #e6e6e6 !important; }
+
+.uiMenu {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+  .uiMenu .uiMenuItem .itemAnchor {
+    border-color: #cffaff !important; }
+
+.uiBoxGray {
+  background-color: #cffaff !important; }
+
+._qbs ._53ad {
+  color: #2fafaf !important; }
+
+._1yw {
+  background-color: #9ffaff !important;
+  color: #2fafaf !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._d3b {
+  background-color: #9cf5ff !important; }
+
+._6wt {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._6wq {
+  background: #cffaff !important; }
+
+._6ws {
+  background-color: #cffaff !important; }
+
+._t {
+  background-color: white !important; }
+
+._6z- .uiSideNav .selectedItem > .item, ._6z- .uiSideNav .selectedItem > .subitem {
+  background-color: #e6e6e6 !important; }
+
+._kj3, ._z6j, ._2o49, .fbTimelineSection {
+  background-color: white !important; }
+
+._4lh ._2-d1 {
+  background-color: white !important; }
+
+._57uu, ._57uu ._57uy, ._5jkw, ._4p6i {
+  background-color: #cffaff !important; }
+
+._5dz- {
+  -webkit-filter: invert(100%)  !important; }
+
+._6lh ._6lp ._6lo {
+  color: #22ffff !important;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.4) !important; }
+
+._6lh ._6ln a {
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.4) !important; }
+
+.fbChatSidebar {
+  background-color: white !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.fbNubButton .wrap {
+  -webkit-filter: invert(100%)  !important; }
+  .fbNubButton .wrap .name {
+    -webkit-filter: invert(100%)  !important; }
+
+.sp_JD0L4jI4KYp {
+  border-radius: 100%; }
+
+._568z {
+  -webkit-filter: invert(100%)  !important; }
+
+input[type="text"]._58al {
+  background-color: transparent !important; }
+
+._3rh8 {
+  background-color: #9ffaff !important; }
+
+.fbNubFlyoutTitlebar.titlebar {
+  border-color: rgba(55, 235, 255, 0.08) !important;
+  background-color: #9ffaff !important; }
+
+._1nc6 ._5w1r {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._1nc7 ._5w1r {
+  background-color: white !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._5w1r._31xx, ._3__- ._5w1r._31xx {
+  background-color: transparent !important; }
+
+._6gd a {
+  -webkit-filter: invert(100%)  !important; }
+
+._6h1 {
+  -webkit-filter: invert(100%)  !important; }
+
+div[aria-label*="sticker"] {
+  -webkit-filter: invert(100%)  !important; }
+
+._1nc6 ._d97 img, ._1nc6 ._d97 a img {
+  -webkit-filter: invert(0) !important; }
+
+._1nc6 ._d97, ._1nc6 ._d97 a {
+  -webkit-filter: invert(1) !important; }
+
+._1nc7 ._5w1r, ._1nc7 ._5w1r a {
+  background-color: #bfbfbf !important;
+  color: black !important; }
+
+._576q svg {
+  -webkit-filter: none !important; }
+
+._1nc6 ._d97._31xy {
+  background: none !important; }
+
+._1uw- > img._1ift._2560 {
+  -webkit-filter: invert(100%) !important; }
+
+._5ep3 {
+  -webkit-filter: invert(100%)  !important; }
+  ._5ep3 svg {
+    -webkit-filter: invert(100%)  !important; }
+
+._2nlt, ._3olv._2nlt {
+  -webkit-filter: invert(100%)  !important; }
+
+.sp_7uF0Nxk6_De.sx_5f8e6c {
+  border-radius: 50% !important; }
+
+.fbNubFlyoutTitlebar {
+  border-color: rgba(55, 235, 255, 0.08) !important;
+  background-color: #9ffaff !important; }
+
+._5ugg {
+  background-color: #0f398b !important; }
+
+.fbNub._50mz.highlightTitle .fbNubFlyoutTitlebar.titlebar {
+  border-color: #e6e6e6 !important;
+  background-color: #f2f2f2 !important; }
+
+._3qx ._3ixn, ._1oye, ._4-of, ._1oyf, ._1oyh {
+  background-color: rgba(156, 245, 255, 0.9) !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+body ._19u- ._3ixn {
+  background: rgba(156, 245, 255, 0.9) !important; }
+
+._2u7 {
+  background-color: #fff !important; }
+
+._2e_p, ._21mb {
+  box-shadow: 0 4px 80px 6px rgba(255, 255, 255, 0.85) !important; }
+
+._4d3w._u77 ._3t09 {
+  background-color: white !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._4d3w .snowliftOverlayBar {
+  color: #464f4f !important;
+  background-color: white !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._39n * {
+  -webkit-filter: invert(100%)  !important; }
+
+._4qo2 ._4x9_._48-k::before {
+  -webkit-filter: invert(100%)  !important; }
+
+._4oyq {
+  background-color: rgba(207, 250, 255, 0.9) !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.iframeEmbed iframe:-webkit-full-screen {
+  -webkit-filter: none !important; }
+
+._3j5 {
+  background-color: #cffaff !important; }
+
+.uiList {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.ul._281 {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._3b {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._k- {
+  text-shadow: none !important; }
+
+._kv:hover, ._kv {
+  background-color: #e6e6e6 !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._k-:hover {
+  background-color: #f2f2f2 !important; }
+
+._3db {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._35 {
+  color: #464f4f !important; }
+
+._9h {
+  -webkit-filter: invert(100%)  !important; }
+
+._1rs {
+  background-color: white !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._2pt {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._1rs .emoticonsPanel .emoteTogglerImg {
+  -webkit-filter: invert(0%) !important; }
+
+._1rt {
+  background-color: white !important;
+  color: #1f1d1b !important; }
+
+._1rw {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.uiHeaderSection, .uiSideHeader {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._1ri.uiButton.uiButtonConfirm {
+  background-color: #22ffff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important;
+  color: black !important; }
+
+._nd_ ._hh7 {
+  -webkit-filter: invert(1) !important; }
+
+._nd_ ._hh7 ._1ift {
+  -webkit-filter: invert(0) !important; }
+
+.emoticonsPanel .panelFlyout {
+  background-color: white !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._2nb ._2n3 {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+  ._2nb ._2n3 .timestamp {
+    background-color: rgba(55, 235, 255, 0.08) !important;
+    color: #464f4f !important; }
+
+._3quh {
+  background: transparent !important; }
+
+._juy, ._58gc ._5otg, ._3i1j ._5otg, ._g3h, ._5vg-, ._5vgz, .sidebarMode #globalContainer ._5vgz.fixed_elem {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._5vx4._5vx6 ._5vwy ._13xf {
+  background-color: #e6e6e6 !important; }
+
+._5r2h {
+  text-shadow: 0 0 3px rgba(255, 255, 255, 0.8) !important; }
+
+._5mo6, ._5mo6 a {
+  text-shadow: 0 0 3px rgba(255, 255, 255, 0.8) !important; }
+
+._ubn {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._5y4p {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._14vf ._33v2 {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._33vf li._3wxb, ._33vf li._3wxb:hover, ._33vf li._1hgw, ._33vf li._1a_0:hover, ._33vf li._1a_0._4vb9 {
+  background-color: #e6e6e6 !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._33v2, ._4vb8 {
+  background-color: white !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._tum {
+  background-color: #9cf5ff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._tun {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.selected ._tuq:before {
+  background-color: #e6e6e6 !important; }
+
+._47ol {
+  color: #2fafaf !important; }
+
+._3jk input {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._3910, ._5vh1 {
+  color: #2fafaf !important; }
+
+._1lor, ._20h0 {
+  background-color: #9cf5ff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._1lot {
+  background-color: #cffaff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+#pages_actions_pagelet button {
+  color: black !important; }
+
+._4jy2 {
+  background-color: #22ffff !important;
+  border-color: #22ffff !important;
+  color: black !important; }
+
+.uiSearchInput button {
+  background-color: transparent !important; }
+
+input.inputtext {
+  background-color: transparent !important; }
+
+.groupsCoverPhoto img.scaledImageFitHeight {
+  -webkit-filter: invert(0) !important; }
+
+li.__MenuItem._54ne.selected ._54nc {
+  background-color: white !important; }
+
+.fbTimelineSelector .wrap a.fbTimelineSelectorButton, .fbTimelineSelector .wrap a.fbTimelineSelectorButton:hover {
+  -webkit-filter: invert(100%)  !important; }
+
+.sp_YCWnpXxU8mE {
+  -webkit-filter: invert(100%)  !important; }
+
+.uiBoxWhite {
+  background: #cffaff !important; }
+
+.fbTimelineStickyHeader .back {
+  background: #9cf5ff !important; }
+
+._21es {
+  background: #0f398b !important;
+  color: white !important; }
+
+.uiTooltipX .tooltipContent {
+  background: #0f398b !important;
+  color: white !important; }
+
+.emoticon {
+  -webkit-filter: invert(100%)  !important; }
+
+i._lew {
+  -webkit-filter: invert(0%) !important; }
+
+.uiButtonGroup {
+  background: #22ffff !important;
+  color: black !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+  .uiButtonGroup .uiButtonGroupItem {
+    border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._23fw:before, ._23fw:after {
+  background-image: linear-gradient(transparent, #cffaff 50%, rgba(207, 250, 255, 0.6) 100%); }
+
+.hasLeftCol #pageFooter {
+  background-color: white !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+.uiSideNav .selectedItem .item, .uiSideNav .selectedItem .item:hover, .uiSideNav ul .selectedItem .subitem, .uiSideNav ul .selectedItem .subitem:hover {
+  background-color: #f2f2f2 !important; }
+
+.uiSideNav .item:hover, .uiSideNav .item:active, .uiSideNav .item:focus, .uiSideNav .subitem:hover, .uiSideNav .subitem:active, .uiSideNav .subitem:focus, .uiSideNav .highlighted .item:hover, .uiSideNav ul .highlighted .subitem:hover {
+  background-color: #e6e6e6 !important; }
+
+.fbSettingsList a.fbSettingsListLink:hover {
+  background-color: #e6e6e6 !important; }
+
+.fbSettingsList .fbSettingsListItemSaved, .fbSettingsList .fbSettingsListItemEdit {
+  color: #2fafaf !important; }
+
+.uiSideNav .item, .uiSideNav .subitem {
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._8-b ._26y1 {
+  background-color: #9cf5ff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._1bgx {
+  background-color: #e6e6e6 !important;
+  text-shadow: none; }
+
+._9ot:hover {
+  background-color: rgba(230, 230, 230, 0.7) !important; }
+
+._26y3 {
+  background-color: #9cf5ff !important;
+  border-color: rgba(55, 235, 255, 0.08) !important; }
+
+._2iwq {
+  opacity: 0.2; }
+
+._5ugf {
+  background-color: #0f398b !important;
+  color: white !important; }
+
+._2mbj ._3u33 {
+  background-color: transparent !important; }
+
+._2mbj ._3u33 i {
+  -webkit-filter: invert(50%) !important; }
+
+._50zz._50z-, ._3soc {
+  -webkit-filter: invert(1) !important;
+  background-color: transparent !important; }
+
+._50-0._50z- {
+  background-color: transparent !important; }
+
+._1kf_ ._1yst {
+  background-color: rgba(255, 255, 255, 0.6) !important; }
+
+#pagelet_composer span._4-h8 {
+  border-color: transparent !important; }
+
+span._4-h8::after {
+  border-bottom: 8px solid #cffaff !important; }
+
+._1sdi {
+  background-color: transparent !important; }
+
+/*# sourceMappingURL=facebook-redalert.css.map */

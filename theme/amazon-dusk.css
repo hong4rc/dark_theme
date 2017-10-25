@@ -1,0 +1,89 @@
+html {
+  background-color: #22252e !important;
+  min-height: 100% !important; }
+
+body {
+  background-color: #dddad1 !important;
+  min-height: 100% !important;
+  -webkit-filter: invert(100%) !important; }
+
+img,
+iframe,
+video,
+embed:not([type$="pdf"]),
+object,
+svg,
+canvas,
+[background*="http"] {
+  -webkit-filter: invert(100%)  !important; }
+
+*[style*="background-image:"] {
+  -webkit-filter: invert(100%)  !important; }
+
+div.drk_settings,
+div.drk_settings_icon,
+div.drk_dialog,
+.addthis_sharing_toolbox,
+.drk_invert_back {
+  -webkit-filter: invert(100%)  !important; }
+
+*:-webkit-full-screen {
+  -webkit-filter: invert(100%)  !important; }
+
+button, input[type="submit"], input[type="button"] {
+  background-color: #ff6421 !important;
+  color: black !important;
+  border-color: rgba(55, 35, 0, 0.08) !important; }
+  button span, input[type="submit"] span, input[type="button"] span {
+    color: black !important; }
+
+textarea, input[type="text"] {
+  background-color: #f3f2ee !important;
+  color: #1f1d1b !important;
+  border-color: rgba(55, 35, 0, 0.08) !important; }
+
+html {
+  text-shadow: 0 0 0 !important; }
+
+a {
+  color: #903710 !important; }
+
+a:visited {
+  color: #ce6639 !important; }
+
+a:active {
+  color: #0f398b !important; }
+
+::-webkit-scrollbar {
+  background: #22252e; }
+
+::-webkit-scrollbar-track {
+  background: #2d313d; }
+
+::-webkit-scrollbar-thumb {
+  background: #3e4454;
+  border-left: 2px solid #2d313d;
+  border-right: 1px solid #2d313d;
+  box-shadow: inset 1px 1px 0 rgba(100, 100, 100, 0.2), inset -1px -1px 0 rgba(0, 0, 0, 0.4); }
+
+.drk_settings_global_msg.visible {
+  display: block !important; }
+
+/*
+// z-index manipulation messes up with the look of Amazon's header when scrolling, so I disabled it
+.cropped-image-map, .image-map, .shogun-widget, .cropped-image-map-center-alignment{
+  z-index: -100;
+}*/
+header, #navFooter, #a-page i, .a-color-success, .acsux-hsb-container li, .acsux-menu, .acs-tiles-wrapfix {
+  -webkit-filter: invert(100%)  !important; }
+
+input[type="submit"] {
+  background-color: transparent !important; }
+
+#nav-flyout-shopAll {
+  background-color: #ccc7ba !important; }
+
+#nav-subnav, #nav-iss-attach, #searchDropdownBox {
+  background-color: #dddad1 !important; }
+
+/*# sourceMappingURL=amazon-dusk.css.map */

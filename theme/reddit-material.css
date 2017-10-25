@@ -1,0 +1,130 @@
+html {
+  background-color: #151515 !important;
+  min-height: 100% !important; }
+
+body {
+  background-color: #eaeaea !important;
+  min-height: 100% !important;
+  -webkit-filter: invert(100%) !important; }
+
+img,
+iframe,
+video,
+embed:not([type$="pdf"]),
+object,
+svg,
+canvas,
+[background*="http"] {
+  -webkit-filter: invert(100%)  !important; }
+
+*[style*="background-image:"] {
+  -webkit-filter: invert(100%)  !important; }
+
+div.drk_settings,
+div.drk_settings_icon,
+div.drk_dialog,
+.addthis_sharing_toolbox,
+.drk_invert_back {
+  -webkit-filter: invert(100%)  !important; }
+
+*:-webkit-full-screen {
+  -webkit-filter: invert(100%)  !important; }
+
+button, input[type="submit"], input[type="button"] {
+  background-color: #fc560b !important;
+  color: #bdbdbd !important;
+  border-color: rgba(0, 0, 0, 0.15) !important; }
+  button span, input[type="submit"] span, input[type="button"] span {
+    color: #bdbdbd !important; }
+
+textarea, input[type="text"] {
+  background-color: #dedede !important;
+  color: #111111 !important;
+  border-color: rgba(0, 0, 0, 0.15) !important; }
+
+html {
+  text-shadow: 0 0 0 !important; }
+
+a {
+  color: #9b4a09 !important; }
+
+a:visited {
+  color: #867934 !important; }
+
+a:active {
+  color: #6f3506 !important; }
+
+::-webkit-scrollbar {
+  background: #151515; }
+
+::-webkit-scrollbar-track {
+  background: #222222; }
+
+::-webkit-scrollbar-thumb {
+  background: #4f4f4f;
+  border-left: 2px solid #222222;
+  border-right: 1px solid #222222;
+  box-shadow: inset 1px 1px 0 rgba(100, 100, 100, 0.2), inset -1px -1px 0 rgba(0, 0, 0, 0.4); }
+
+.drk_settings_global_msg.visible {
+  display: block !important; }
+
+button {
+  background-color: #fc560b !important;
+  color: #bdbdbd !important;
+  border-color: rgba(0, 0, 0, 0.15) !important; }
+
+input {
+  color: #111111;
+  background-color: #dedede;
+  border-color: rgba(0, 0, 0, 0.15); }
+
+#header[role="banner"] {
+  -webkit-filter: invert(1) !important; }
+
+#header[role="banner"] > div {
+  -webkit-filter: invert(1) !important; }
+
+#header-bottom-left > a:nth-child(2) {
+  -webkit-filter: invert(100%) !important; }
+
+.submit-link > .morelink > a, .submit-text > .morelink > a {
+  color: #bdbdbd !important;
+  background-color: #fc560b !important; }
+
+.submit-link > .morelink > .nub, .submit-text > .morelink > .nub {
+  display: none; }
+
+.hohoho > .morelink > a {
+  color: #bdbdbd !important;
+  background-color: #1ac6ca !important; }
+
+.roundfield {
+  background-color: #dedede !important; }
+
+.thing.linkflair-mod {
+  background-color: #fea864 !important; }
+
+.comments-page .expando .md blockquote, .comment .md blockquote {
+  color: #b350af !important; }
+
+#search > input[type="submit"] {
+  background-color: transparent !important; }
+
+.tabmenu > li > a {
+  background-color: #dedede !important; }
+
+.tabmenu > li.selected > a {
+  background-color: #eaeaea !important; }
+
+body {
+  background-color: #eaeaea !important; }
+
+.side .submit {
+  -webkit-filter: invert(1) !important; }
+
+.side a {
+  -webkit-filter: invert(1) !important;
+  color: #64b5f6 !important; }
+
+/*# sourceMappingURL=reddit-material.css.map */

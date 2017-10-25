@@ -1,0 +1,398 @@
+html {
+  background-color: #151515 !important;
+  min-height: 100% !important; }
+
+body {
+  background-color: #eaeaea !important;
+  min-height: 100% !important;
+  -webkit-filter: invert(100%) !important; }
+
+img,
+iframe,
+video,
+embed:not([type$="pdf"]),
+object,
+svg,
+canvas,
+[background*="http"] {
+  -webkit-filter: invert(100%)  !important; }
+
+*[style*="background-image:"] {
+  -webkit-filter: invert(100%)  !important; }
+
+div.drk_settings,
+div.drk_settings_icon,
+div.drk_dialog,
+.addthis_sharing_toolbox,
+.drk_invert_back {
+  -webkit-filter: invert(100%)  !important; }
+
+*:-webkit-full-screen {
+  -webkit-filter: invert(100%)  !important; }
+
+button, input[type="submit"], input[type="button"] {
+  background-color: #fc560b !important;
+  color: #bdbdbd !important;
+  border-color: rgba(0, 0, 0, 0.15) !important; }
+  button span, input[type="submit"] span, input[type="button"] span {
+    color: #bdbdbd !important; }
+
+textarea, input[type="text"] {
+  background-color: #dedede !important;
+  color: #111111 !important;
+  border-color: rgba(0, 0, 0, 0.15) !important; }
+
+html {
+  text-shadow: 0 0 0 !important; }
+
+a {
+  color: #9b4a09 !important; }
+
+a:visited {
+  color: #867934 !important; }
+
+a:active {
+  color: #6f3506 !important; }
+
+::-webkit-scrollbar {
+  background: #151515; }
+
+::-webkit-scrollbar-track {
+  background: #222222; }
+
+::-webkit-scrollbar-thumb {
+  background: #4f4f4f;
+  border-left: 2px solid #222222;
+  border-right: 1px solid #222222;
+  box-shadow: inset 1px 1px 0 rgba(100, 100, 100, 0.2), inset -1px -1px 0 rgba(0, 0, 0, 0.4); }
+
+.drk_settings_global_msg.visible {
+  display: block !important; }
+
+.gb_ga {
+  -webkit-filter: invert(100%)  !important; }
+
+.flyr-o, .flyr-w {
+  background-color: #eaeaea !important;
+  color: White !important; }
+
+span,
+div,
+em,
+input {
+  color: #111111 !important; }
+
+.lpb {
+  -webkit-filter: invert(100%)  !important; }
+
+#stb input[type="submit"] {
+  background-color: Transparent !important;
+  border-color: Transparent !important;
+  color: inherit !important; }
+
+.nH {
+  background: #eaeaea !important; }
+
+.T-ays {
+  -webkit-filter: none !important;
+  background: #BDBDBD !important; }
+  .T-ays > div {
+    -webkit-filter: none !important;
+    color: #000 !important; }
+
+.T-ays-atC {
+  -webkit-filter: invert(100%) !important;
+  border-color: #0014c4 transparent !important; }
+
+.vh,
+.vh,
+.vh {
+  background-color: #0014c4 !important;
+  border: 0 !important;
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.2) !important;
+  color: #fff !important;
+  text-shadow: none !important; }
+  .vh a,
+  .vh a,
+  .vh a {
+    -webkit-filter: invert(100%) !important;
+    text-shadow: none !important;
+    color: #000 !important; }
+  .vh span,
+  .vh span,
+  .vh span {
+    -webkit-filter: invert(100%) !important;
+    text-shadow: none !important;
+    color: #000 !important; }
+
+.gb_Rb, .gb_Sb, .gb_Xa {
+  -webkt-filter: none !important; }
+
+.gb_Za.gb_Wb {
+  -webkit-filter: invert(100%) !important; }
+
+.gb_ue {
+  background-color: #bdbdbd !important;
+  border-color: rgba(0, 0, 0, 0.15) !important; }
+
+.gbqfqw.gbqfqw:active,
+.gbqfqw.gbqfqwf.gbqfqwf {
+  border-color: #fc560b !important; }
+
+#gbqfb {
+  background: #fc560b !important; }
+
+.ZZ .T-I-atl {
+  background: #fc560b !important;
+  border-color: #fc560b !important; }
+  .ZZ .T-I-atl:hover {
+    background: #fd793d !important;
+    border-color: #fc560b !important; }
+
+.gb_pc, .gb_M {
+  -webkit-filter: invert(100%)  !important; }
+
+.gb_7a, .gb_8a {
+  -webkit-filter: invert(100%)  !important; }
+
+.akh span {
+  color: #1ac6ca !important; }
+
+.asT-asx {
+  -webkit-filter: grayscale(100%); }
+
+.T-I.T-I-KE {
+  background: #1ac6ca !important; }
+  .T-I.T-I-KE:hover {
+    background: #32e1e5 !important; }
+
+.nZ .n0,
+.n3 .n0 {
+  color: #111111 !important; }
+
+.nU a:visited {
+  color: #111111 !important;
+  outline: 2px dashed #0ff; }
+
+.ain {
+  border-color: #1ac6ca !important; }
+  .ain .nZ .n0 {
+    color: #1ac6ca !important; }
+
+.p6 {
+  -webkit-filter: invert(100%)  !important; }
+
+.T-I,
+.d-Na-JX-I {
+  background: #dedede !important; }
+
+.J-M,
+.d-Na-JG-M {
+  background: #eaeaea !important; }
+
+.J-N-JE div.J-N-Jz {
+  color: #424242 !important; }
+
+.T-I-J3 {
+  -webkit-filter: none !important; }
+
+.asd.ja {
+  color: #424242 !important; }
+
+.aeJ,
+.Bu {
+  background: #eaeaea !important; }
+
+.at {
+  -webkit-filter: invert(100%)  !important; }
+
+.y2 {
+  color: #424242 !important; }
+
+.T-KT,
+.pG {
+  -webkit-filter: invert(100%)  !important; }
+
+.zE {
+  background: #dedede !important; }
+
+.x7,
+.zE.x7 {
+  background: #fea864 !important; }
+
+.aKo {
+  -webkit-filter: invert(100%)  !important; }
+
+.Tm::-webkit-scrollbar {
+  background: #eaeaea; }
+
+.Tm::-webkit-scrollbar-track {
+  background: #dddddd; }
+
+.Tm::-webkit-scrollbar-thumb {
+  background: #4f4f4f;
+  border-left: 2px solid #222222;
+  border-right: 1px solid #222222;
+  box-shadow: inset 1px 1px 0 rgba(100, 100, 100, 0.2), inset -1px -1px 0 rgba(0, 0, 0, 0.4); }
+
+.a3s.aXjCH {
+  -webkit-filter: none !important; }
+  .a3s.aXjCH a {
+    -webkit-filter: none !important;
+    color: inherit !important; }
+  .a3s.aXjCH img {
+    -webkit-filter: none !important;
+    -webkit-filter: invert(100%)  !important; }
+
+.zd {
+  -webkit-filter: none !important; }
+
+.mI,
+.mK,
+.mL {
+  -webkit-filter: none !important; }
+
+.ajT {
+  background-color: #d1d1d1 !important;
+  -webkit-filter: invert(100%)  !important; }
+
+.I5 {
+  -webkit-filter: invert(100%)  !important; }
+  .I5 a {
+    -webkit-filter: invert(100%)  !important; }
+  .I5 img {
+    -webkit-filter: none !important; }
+
+.T-Kw {
+  -webkit-filter: invert(100%)  !important; }
+
+.a8E .Je {
+  -webkit-filter: invert(100%)  !important;
+  background-color: #fea864 !important; }
+
+.a8F button,
+.a8m {
+  background-color: transparent !important; }
+
+.J-J5-Ji .T-I-atl {
+  -webkit-filter: invert(100%)  !important;
+  background: #fc560b !important;
+  border-color: #fc560b !important; }
+  .J-J5-Ji .T-I-atl:hover {
+    background: #fd793d !important;
+    border-color: #fc560b !important; }
+
+.hx .Bk .G2 {
+  border-color: #bdbdbd !important; }
+
+.bat {
+  -webkit-filter: invert(100%)  !important; }
+
+.nH.Hy.aXJ * {
+  background-color: #1ac6ca !important; }
+
+.Hm > img {
+  -webkit-filter: none !important; }
+
+.I5 > form {
+  -webkit-filter: invert(100%)  !important; }
+  .I5 > form .o1 {
+    color: #111111 !important; }
+
+.vN {
+  background: #bdbdbd !important; }
+
+.aFf .ak {
+  -webkit-filter: invert(100%)  !important; }
+
+.ah .Jd-Je {
+  background: #bdbdbd !important; }
+
+.vM {
+  -webkit-filter: invert(100%)  !important; }
+
+.aSs {
+  background-color: rgba(248, 248, 248, 0.5) !important; }
+
+.gU,
+.J-Z {
+  -webkit-filter: invert(100%)  !important;
+  background-color: #eaeaea !important; }
+
+.aDh {
+  border-color: #000 !important; }
+
+.HE .T-I {
+  -webkit-filter: none !important; }
+
+.wG,
+.oi,
+.J-Z-I-JW,
+.J-Z-M-I-JW {
+  border-color: #eaeaea !important; }
+  .wG:hover,
+  .oi:hover,
+  .J-Z-I-JW:hover,
+  .J-Z-M-I-JW:hover {
+    border-color: #bdbdbd !important; }
+  .wG:focus,
+  .oi:focus,
+  .J-Z-I-JW:focus,
+  .J-Z-M-I-JW:focus {
+    border-color: #fc560b !important; }
+
+.oi,
+.J-Z-I-JW,
+.J-Z-M-I-JW {
+  background: #eaeaea !important; }
+
+.aA4 {
+  display: none; }
+
+.dL {
+  -webkit-filter: invert(100%)  !important;
+  background: #eaeaea !important; }
+
+.vI {
+  -webkit-filter: invert(100%) !important;
+  color: #fc560b !important; }
+
+.vJ {
+  -webkit-filter: invert(100%) !important;
+  color: #424242 !important; }
+
+.dT {
+  -webkit-filter: invert(100%)  !important; }
+
+.dR {
+  -webkit-filter: invert(100%)  !important; }
+
+#\:bp a span {
+  -webkit-filter: invert(100%)  !important;
+  color: #3D84D7 !important; }
+
+.gb_ga {
+  -webkit-filter: none !important;
+  background: #eaeaea !important; }
+
+.gb_hb,
+#gb a.gb_hb.gb_hb,
+.gb_ib a,
+#gb .gb_ib.gb_ib a,
+.gb_lb .gb_rb a {
+  color: #9b4a09 !important; }
+
+.gbip {
+  -webkit-filter: invert(100%)  !important; }
+
+.gb_lb .gb_rb {
+  background: #fc560b !important;
+  border-color: #fd793d !important;
+  color: #111111 !important; }
+  .gb_lb .gb_rb:hover, .gb_lb .gb_rb:focus {
+    background: #fd793d !important; }
+
+.gb_ha.gb_ga.gb_Aa.gb_ia.gb_g .gb_3 {
+  -webkit-filter: invert(100%)  !important; }
+
+/*# sourceMappingURL=gmail-material.css.map */
