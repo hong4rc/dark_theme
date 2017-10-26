@@ -31,44 +31,44 @@ let CONFIG = {
             "regexHost": /^(gist\.|)github\.com$/
         },
         'sharelatex': {
-            regexHost: /\.sharelatex\.com$/
+            "regexHost": /\.sharelatex\.com$/
         },
         'twitter': {
-            regexHost: /twitter\.com$/
+            "regexHost": /twitter\.com$/
         },
 
         'stackoverflow': {
-            regexHost: /stackoverflow\.com$/
+            "regexHost": /stackoverflow\.com$/
         },
         'trello': {
-            regexHost: /trello\.com$/
+            "regexHost": /trello\.com$/
         },
         'dropbox': {
-            regexHost: /^www\.dropbox\.com$/
+            "regexHost": /^www\.dropbox\.com$/
         },
         'reddit': {
-            regexHost: /^www\.reddit\.com$/
+            "regexHost": /^www\.reddit\.com$/
         },
         'jsfiddle': {
-            regexHost: /^jsfiddle\.net$/
+            "regexHost": /^jsfiddle\.net$/
         },
         'wikipedia': {
-            regexHost: /^.+\.wikipedia\.org$/
+            "regexHost": /^.+\.wikipedia\.org$/
         },
         'googledrive': {
-            regexHost: /^drive\.google\.com$/
+            "regexHost": /^drive\.google\.com$/
         },
         'twitch': {
-            regexHost: /^www\.twitch\.tv$/
+            "regexHost": /^www\.twitch\.tv$/
         },
         'amazon': {
-            regexHost: /\.amazon\.(co.uk|com|es|de|co.jp)$/
+            "regexHost": /\.amazon\.(co.uk|com|es|de|co.jp)$/
         },
         'mint': {
-            regexHost: /mint.intuit.com/
+            "regexHost": /mint.intuit.com/
         },
         'craigslist': {
-            regexHost: /\.craigslist\.org$/
+            "regexHost": /\.craigslist\.org$/
         }
     }
 };

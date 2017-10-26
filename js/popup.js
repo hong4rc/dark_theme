@@ -50,19 +50,22 @@ let addClickListener = (classFrame) => {
     }
 };
 
-function Chooser(cls) {
-    this.cls = cls;
-    this.lastElem = null;
-    this.addClass = (elem) => {
+class Chooser {
+    constructor(cls) {
+        this.cls = cls;
+    }
+
+    addClass(elem) {
         this.removeClass(this.lastElem);
         this.lastElem = elem;
         let listClass = elem.className.split(" ");
         if (listClass.indexOf(this.cls) === -1) {
-            listClass.push(cls);
+            listClass.push(this.cls);
             elem.className = listClass.join(" ")
         }
-    };
-    this.removeClass = (elem) => {
+    }
+
+    removeClass(elem) {
         if (!elem) return;
         let listClass = elem.className.split(" ");
         let index = listClass.indexOf(this.cls);
