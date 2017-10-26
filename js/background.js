@@ -1,5 +1,5 @@
 const NONE = "none", THEME_DIR = "theme/";
-let loadTab = tab=>{
+let loadTab = tab => {
     showPageAction(tab);
     let key = getPage(tab.url);
     if (!key) {
@@ -10,10 +10,10 @@ let loadTab = tab=>{
         sendStyle(tab.id, fileName);
     });
 };
-let checkAllTab = ()=>{
-    chrome.tabs.query({}, tabs=>{
+let checkAllTab = () => {
+    chrome.tabs.query({}, tabs => {
         console.log(tabs);
-        for (let tab of tabs){
+        for (let tab of tabs) {
             loadTab(tab);
         }
     })

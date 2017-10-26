@@ -20,6 +20,6 @@ let listen = () => {
 
 addTag();
 listen();
-chrome.runtime.sendMessage({cmd: "load_tab"}, res =>{
+chrome.runtime.sendMessage({cmd: "load_tab"}, res => {
     console.log(res);
 });
