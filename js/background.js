@@ -125,8 +125,6 @@ class Helper {
             file: "js/load_tab.js",
             runAt: 'document_start',
             allFrames: false
-        }, () => {
-            this.loadTab(tab);
         });
     }
 }
