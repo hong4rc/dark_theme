@@ -1,0 +1,121 @@
+body{
+    width: 300px;
+    background: #333;
+    user-select: none;
+}
+
+ul, html{
+    margin: 0;
+    padding: 0;
+}
+
+ul > li.frame_theme{
+    width: 110px;
+    height: 40px;
+    float: left;
+    position: relative;
+    display: block;
+    padding: 10px;
+    color: #fff;
+    margin: 8px;
+    cursor: pointer;
+    border: solid 1px #333;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.5), 0 0 3px rgba(0, 0, 0, 0.4);
+    transition: all .2s ease-in-out;
+    &.active, &:hover{
+        border-color: #4cdc31;
+    }
+    .theme_title{
+        display: block
+    }
+    .color{
+        position: absolute;
+        width: 33.333%;
+        top: 85%;
+        bottom: 0;
+    }
+    .color_one{
+        left: 0;
+    }
+    .color_two{
+        left: 33.333%;
+    }
+    .color_three{
+        left: 66.666%;
+    }
+
+    //For theme
+    &.none{
+        background: #fff;
+        color: #000;
+        .color_one{
+            background: #e5e5e5;
+        }
+        .color_two{
+            background: #365899;
+        }
+        .color_three{
+            background: #1a0dab;
+        }
+    }
+    &.dusk{
+        background: #183552;
+        .color_one{
+            background: #15497f;
+        }
+        .color_two{
+            background: #009bde;
+        }
+        .color_three{
+            background: #6fc8ef;
+        }
+    }
+    &.iceberg{
+        background: #28292a;
+        .color_one{
+            background: #404142;
+        }
+        .color_two{
+            background: #2ea6c0;
+        }
+        .color_three{
+            background: #65d7ef;
+        }
+    }
+    &.tomorrow{
+        background: #1d1f21;
+        .color_one{
+            background: #373b41;
+        }
+        .color_two{
+            background: #81a2be;
+        }
+        .color_three{
+            background: #9c75a7;
+        }
+    }
+    &.material{
+        background: #151515;
+        .color_one{
+            background: #424242;
+        }
+        .color_two{
+            background: #64b5f6;
+        }
+        .color_three{
+            background: #e53935;
+        }
+    }
+    &.red_alert{
+        background: #000;
+        .color_one{
+            background: #600500;
+        }
+        .color_two{
+            background: #d00;
+        }
+        .color_three{
+            background: #cf4f4f;
+        }
+    }
+}
