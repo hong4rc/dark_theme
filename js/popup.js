@@ -25,6 +25,8 @@ let listen = () => {
                 break;
             case "choose":
                 let elem = document.getElementsByClassName(req.theme)[0];
+                let key = req.key;
+                document.getElementById("key").innerHTML=req.key;
                 chooser.addClass(elem);
                 break;
         }

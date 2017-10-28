@@ -1,12 +1,28 @@
 body {
-  width: 300px;
+  width: 302px;
   background: #333;
   user-select: none;
-}
-
-ul, html {
   margin: 0;
   padding: 0;
+}
+
+ul {
+  margin: 3px;
+  padding: 0;
+}
+
+.header {
+  color: #fff;
+  letter-spacing: .1em;
+  background: #666;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 300;
+}
+.header #key {
+  font-size: 18px;
+  text-transform: capitalize;
 }
 
 ul > li.frame_theme {
@@ -28,6 +44,8 @@ ul > li.frame_theme.active, ul > li.frame_theme:hover {
 }
 ul > li.frame_theme .theme_title {
   display: block;
+  font-weight: 200;
+  font-size: 16px;
 }
 ul > li.frame_theme .color {
   position: absolute;

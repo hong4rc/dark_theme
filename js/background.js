@@ -23,7 +23,8 @@ let listen = () => {
                 Helper.getTheme(key).then(theme => {
                     chrome.runtime.sendMessage({
                         cmd: "choose",
-                        theme: theme
+                        theme: theme,
+                        key: key
                     })
                 });
                 break;
